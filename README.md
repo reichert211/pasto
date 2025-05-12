@@ -1,11 +1,1 @@
-[data.6bbfd21aa07ea.txt](https://github.com/user-attachments/files/20166377/data.6bbfd21aa07ea.txt)
-[data.4c09bc35bf161.txt](https://github.com/user-attachments/files/20166376/data.4c09bc35bf161.txt)
-[data.ed3cb34ab7f09.txt](https://github.com/user-attachments/files/20166385/data.ed3cb34ab7f09.txt)
-[data.cc6eb6905f0828.txt](https://github.com/user-attachments/files/20166384/data.cc6eb6905f0828.txt)
-[data.c65aa4e284e62.txt](https://github.com/user-attachments/files/20166383/data.c65aa4e284e62.txt)
-[data.279434ddb7f7f.txt](https://github.com/user-attachments/files/20166382/data.279434ddb7f7f.txt)
-[data.8409d99091d52.txt](https://github.com/user-attachments/files/20166381/data.8409d99091d52.txt)
-[data.908cb887d746e.txt](https://github.com/user-attachments/files/20166380/data.908cb887d746e.txt)
-[data.0048a91437e9f.txt](https://github.com/user-attachments/files/20166379/data.0048a91437e9f.txt)
-[data.8bd36d5502f038.txt](https://github.com/user-attachments/files/20166378/data.8bd36d5502f038.txt)
-[tiago mamador de pastor-20250512T172700Z-001.zip](https://github.com/user-attachments/files/20166393/tiago.mamador.de.pastor-20250512T172700Z-001.zip)
+
